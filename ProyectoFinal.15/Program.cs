@@ -1,4 +1,28 @@
 ﻿using System;
+public class Usuario
+{
+    public int Expediente { get; set; }
+    public string Nombre { get; set; }
+    public string Carrera { get; set; }
+    public string Contraseña { get; set;}
+    public Usuario(int expediente,  string nombre, string carrera, string contraseña)
+    {
+        Expediente = expediente;
+        Nombre = nombre;
+        Carrera = carrera;
+        Contraseña = contraseña;
+    }
+}
+public class Libro
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public string Title { get; set; }
+    public string Genero { get; set;}
+    public string Editorial { get; set; }
+    public string Idioma { get; set; }
+
+}
 public class ProyectoFinal
 {
     public static void Main(string[] args)
@@ -7,8 +31,7 @@ public class ProyectoFinal
         string pathLibros = "Libros.txt";
         VerificaDoc(pathUusarios);
         VerificaDoc(pathLibros);
-        LogIn(pathUusarios);
-        LogIn(pathLibros);
+        LogIn(pathUusarios,pathLibros);
     }
     public static void VerificaDoc(string path)
     {
@@ -32,9 +55,5 @@ public class ProyectoFinal
         {
             return lectura.ReadToEnd();
         }
-    }
-    public static  void LogIn(string pathUsuario, string pathLibros)
-    {
-
     }
 }
