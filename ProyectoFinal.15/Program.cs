@@ -22,6 +22,12 @@ public class Libro
     public string Editorial { get; set; }
     public string Idioma { get; set; }
 
+    public Libro(int id, string name, string title,string Title,string Genero,string Editorial){
+        Id = id;
+        Name = name;
+        Title = title;
+    }
+
 }
 public class ProyectoFinal
 {
@@ -31,7 +37,7 @@ public class ProyectoFinal
         string pathLibros = "Libros.txt";
         VerificaDoc(pathUusarios);
         VerificaDoc(pathLibros);
-        LogIn(pathUusarios,pathLibros);
+        //LogIn(pathUusarios,pathLibros)
     }
     public static void VerificaDoc(string path)
     {
