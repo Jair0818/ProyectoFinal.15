@@ -33,4 +33,8 @@ public class ProyectoFinal
             return lectura.ReadToEnd();
         }
     }
+    public static  void LogIn(string pathUsuario, string pathLibros)
+    {
+
+    }
 }
