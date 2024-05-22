@@ -1,0 +1,21 @@
+EXPEDIENTE, NOMBRE, CARRERA, CONTRASEÑA
+327938,Karina,Ing. software,kary123
+278778,Ra�l,Telecomunicaciones,raul321
+327189,Amelia,LATI,1423
+983261,Diego,Ing. software,21trf
+876830,Ariel,LATI,14tft7
+327941,Kevin,LATI,fj68iin
+327956,Josue,Telecomunicaciones,hola34
+327961,Isac,Telecomunicaciones,29gtg
+327964,Pablo,Telecomunicaciones,gato56
+327959,Ricardo,LATI,monederoE
+327949,Eduardo,Ing. software,Hard
+327944,Marino,LATI,sadm3n
+327953,Monse,Telecomunicaciones,23gth
+327951,Mar�a,Telecomunicaciones,pres6
+296564,Miriam,Ing. software,fast344
+318276,Griselda,Ing. software,2341
+327932,Maribel,Telecomunicaciones,1234
+327929,Francisca,LATI,women456ui
+292685,Paulina,Ing. software,by8578hr
+327934,Noelia,Telecomunicaciones,�r53dD4h

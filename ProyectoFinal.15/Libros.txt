@@ -1,0 +1,68 @@
+id, autor, titulo, genero, editorial, idioma
+9788433960863, Ian McEwan, Amsterdam, Literatura y novelas, Anagrama, Español
+9788408004349, Carlos Ruiz Zafón, Marina, Literatura y novelas, Booket, Español
+9786072412941, Andrea Ferrari, Zoom, Ciencia Ficción, SM, Español   
+9788424659318, Amie Kaufman, Atados a la luz, Ciencia Ficción, La galera, Español
+9788417928162, Varios autores, EL PATITO FEO DIVER PUZZLE, Niños, Plutón ediciones, Español
+9788491200338, Varios autores, AVIONES ASOMBROSOS, Niños, Libro divo, Español
+9780847868797, Gus Wenner, Rolling Stone: The illustrated portraits, Arte, Flammarion, Inglés
+9781604697469, Varios autores, SENSATIONAL SUCCULENTS, Arte, Timber press, Inglés
+9780714870427, Margarita Carrillo Arronte, México gastronomía, Gastronomía,  Phaidon press, Español
+9780241615249, Varios autores, PASTELERIA PASO A PASO, Gastronomía, DK, Español
+9789585532359, Eduardo Mackenzie, Colombia, Política, Cangrejo editores, Español
+9788477743934, Laura Bossi, Historia natural del alma, Filosofía, Antonio Machado libros, Español
+9788418002700, Yangsze Choo, LA NOVIA FANTASMA, Terror y suspenso, Hidra, Español
+9786077355205, Raquel Castro, FESTIN DE MUERTOS, Terror y suspenso, Océano, Español
+9780744059687, Curtis Saxton, Star wars vehiculos increibles: incluye dos ilustraciones exclusivas, Cine, DK, Inglés
+9783836561693, Paul Duncan, bu-Film Noir-GB, Cine, Taschen, Inglés
+9789689443001, Rosa Puente J, DIBUJO Y COMUNICACION GRAFICA, Diseño gráfico, Gustavo Gili, Español
+9786071718662, José de Jesús Flores Figueroa, LA CRITICA DEL DISEÑO, Diseño gráfico, Trillas, Español
+9782081513419, Emmanuelle Courrèges, Africa: The fashion continent, Fotografía, Flammarion, Inglés
+9781786271839, Giles Deacon, Gilessolvekatie, Fotografía, Laurence King publishing, Inglés
+9788417905675, Ignacio Gómez de Liaño, Dalí descifrado, Arquitectura, Ediciones Asimétricas, Español
+9780847869558, Gordon Fuglie, Julia Morgan: The road to san simeon visionary architect of the california renaissance, Arquitectura, Rizzoli, Inglés
+9788415732464, Jeremy Camp, MIENTRAS ESTES CONMIGO, Novelas Románticas, Indicios, Español
+9788417361969, Melissa de la Cruz, 29 CITAS, Novelas Románticas, Kiwi, Español
+9786077367383, Fernando Alberto García Cuevas, Disrupción política, Política, Fontamara, Español
+9788412553994, Sigri Sandberg, Oda a la oscuridad, Filosofía, Capitán Swing, Español
+9780789923738, Gary Chapman, Los 5 lenguajes del amor, Ensayo, Unilit, Español
+9780078747687, Varios autores, Introduction to business, Ensayo, McGraw Hill, Inglés
+9786071675798, Stacy Schiff, Cleopatra. Una vida, Historia, Fondo de Cultura Económica, Español
+9786073833677, Carlos Tello Díaz, Porfirio Díaz. Su vida y su tiempo II, Historia, Debolsillo, Español
+9786071514417, Rüdiger Dornbusch, MACROECONOMIA, Economía, McGraw Hill, Español
+9788490352960, Paul Krugman, ECONOMIA INTERNACIONAL, Economía, Pearson, Español
+9786078520671, Ruth Aguilar Padilla, Razón Práctica Meditaciones Gadamerianas, Sociología y antropología, Quinto sol, Español
+9788446051121, Razmig Keucheyan, LAS NECESIDADES ARTIFICIALES. COMO SALIR DEL CONSUMISMO, Sociología y antropología, Akal, Español
+9780789926500, Reyna Valera, BIBLIA UNILIT PARA PEQUEÑITOS, Religión y teología, UNILIT, Español
+9788441442467, Cassandra Eason, El pequeño libro de los Auras, Religión y teología, EDAF, Español
+9786071514301, Juan Antonio Cuéllar Carvajal, FISICA II, Física, McGraw Hill, Español
+9788480198035, Francisco Lagardera Otero, Diccionario Paidotribo de la actividad física y el deporte, Física, Paidotribo, Español
+9789702213420, Jordi Induráin, Diccionario Esencial Química, Química, Larousse, Español
+9788413976082, Alejandro David Avante Juárez, EL DERECHO A VOTO DE LAS PERSONAS CON DISCAPACIDAD INTELECTUAL, Derecho, TIRANT LO BLANCH, Español
+9788411308892, Edgar Daniel Castillo Ortega, Desestimación de la personalidad Jurídica, Derecho, Tirant lo Blanch, Español
+9786070310300, Paola Vázquez Almanza, AQUELLOS QUE DEJAMOS DE SER: FICCION Y NARRACION EN MEXICO, Ciencias Sociales, Siglo XXI, Español
+9786074156911, Émile Durkheim, El suicidio, Ciencias Sociales, Grupo Editorial Tomo, Español
+9786073015677, Carlos Quesnel García-Benítez, TERAPEUTICA EN GINECOLOGIA & OBSTETRICIA, Medicina, McGraw Hill, Español
+9786071514363, Nahúm Méndez, OBESIDAD CONCEPTOS CLINICOS Y TERAPEUTICOS, Medicina, McGraw Hill, Español
+9786071705624, Francisco Arturo Montaño Sánchez, Diccionario de términos laborales y de recursos humanos, Diccionarios Escolares, Trillas, Español
+9788449456787, Varios autores, DICCIONARIO OCEANO PRACTICO DE LA LENGUA ESPAÑOLA, Diccionarios Escolares, Océano, Español
+9788416782505, Varios autores, Diccionario visual inglés-español, Diccionarios Especializados, Pons, Español
+9788425425653, Jesús Ros del Moral, DICCIONARIO FRANCES-ESPAÑOL, Diccionarios Especializados, Herder, Español
+9781526618337, J. K. Rowling, Harry potter and the deathly hallows - ravenclaw edition, Sagas, Bloomsbury publishing, Español
+9786073807845, Suzanne Collins, Los Juegos del Hambre 1 - Los juegos del hambre, Sagas, Molino, Español
+9780261102354, J. R. R. Tolkien, The fellowship of the ring, Sagas, HarperCollins, Inglés
+9789877478433, Alice Oseman, Heartstopper, Sagas, VRYA, Español
+9786071137647, George R. R. Martin, Tormenta de espadas ( Canción de hielo y fuego 3 ), Sagas, Debolsillo, Español
+9786070771989, Anna Todd, After. En mil pedazos (Película), Sagas, Booket, Español
+9780241364741, Varios autores, El libro de la astronomía, Astronomía, DK, Español
+9786071679215, Susana Biro, Para calcular el Universo. Las computadoras en la astronomía, Astronomía, Fondo de Cultura Económica, Español
+9788417127275, Varios autores, Descubre el mundo. La geografía en juego (incluye cartas, globo terráqueo inflable y libro-guía para adultos), Geografía, Gribaudo, Español
+9786075573274, Emmanuel Carrère, Yoga, Premios, Anagrama, Español
+9786075780504, Gede Akutami, Jujutsu Kaisen N.22, Cómics, Manga, Español
+9788417673307, Davide Cali, Cosas que no hacen los mayores, Cómics, Nube ocho, Español
+9780789926463, Stephen Arterburn, LA BATALLA DE CADA HOMBRE, Desarrollo Humano, UNILIT, Español
+9788493891015, David de Lorenzo, NUTRIGENOMICA Y NUTRIGENETICA, Salud y ejercicio, Librooks, Español
+9781789191691, Varios autores, FLORENCIA POCKET GUIDE, Viajes y turismo, Insight editions, Inglés
+9786079278809, Octavio Paz, VERSIONES Y DIVERSIONES, Autores destacados, Galaxia Gutenberg, Español
+9786075403779, Jorge Luis Borges, EL HACEDOR, Autores destacados, Castillo, Español
+9786071411600, William Shakespeare, ROMEO Y JULIETA, Autores destacados, Editores mexicanos unidos, Español
