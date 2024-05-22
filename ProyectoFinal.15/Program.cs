@@ -15,18 +15,15 @@ public class Usuario
 }
 public class Libro
 {
-    //JBFSSKFBJ
     public int Id { get; set; }
-    public string Name { get; set; }
+    public string Author { get; set; }
     public string Title { get; set; }
     public string Genero { get; set;}
     public string Editorial { get; set; }
     public string Idioma { get; set; }
 
     public Libro(int id, string name, string title,string Title,string Genero,string Editorial){
-        Id = id;
-        Name = name;
-        Title = title;
+   
     }
 
 }
